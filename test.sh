@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Running tests..."
+echo "Running tests... helooo duong"
 # Test steps go here
